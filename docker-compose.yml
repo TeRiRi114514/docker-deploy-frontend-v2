@@ -8,5 +8,3 @@ services:
       - VITE_GRAPHQL_URI=http://100.54.104.64:8082/graphql
       - VITE_SERVER_URI=http://100.54.104.64:8082
     restart: unless-stopped
-
-    restart: unless-stopped
